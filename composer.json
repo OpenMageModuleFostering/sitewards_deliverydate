@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Sitewards_DeliveryDate",
+    "name": "OpenMageModuleFostering\/Sitewards_DeliveryDate",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "The Sitewards Delivery Date Extension extends your webshop to allow users to specify a desired delivery date with orders.",
     "authors": [
-    {
-        "name": "Sitewards Magento Team",
-        "email": "magento@sitewards.com"
-    }
-],
+        {
+            "name": "Sitewards Magento Team",
+            "email": "magento@sitewards.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
